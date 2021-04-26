@@ -33,8 +33,22 @@
   - Case Study
 
 - [How To Build A Shopify Headless eCommerce Storefront](https://medium.com/selleo/how-to-build-a-shopify-headless-ecommerce-storefront-99b9dfd5204b)
+
   - What is headless eCommerce?
   - Benefits of headless eCommerce
   - What should you consider before going headless?
   - How to build a Shopify headless store?
+  - Summary
+
+- [Headless Shopify - 25 Amazing Examples](https://selleo.com/blog/headless-shopify-25-amazing-examples)
+  - Introduction
+  - What is headless Shopify?
+  - How does headless work?
+  - Headless vs traditional commerce
+  - Pros of going headless
+    - Faster time-to-market
+    - Flexibility
+    - Better SEO
+    - Seamless integration
+  - Examples
   - Summary
