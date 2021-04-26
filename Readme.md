@@ -12,6 +12,7 @@
   - Speed
 
 - [Headless Shopify - Beginning of new era for eCommerce](https://aureatelabs.com/ecommerce/headless-shopify-beginning-of-new-era-for-ecommerce/)
+
   - What is meant by Headless Commerce?
   - How Headless Commerce helps the E-commerce Industry
   - Headless Commerce Vs Traditional Commerce
@@ -30,3 +31,10 @@
   - Who should go for Headless?
   - Checklist for Headless Commerce
   - Case Study
+
+- [How To Build A Shopify Headless eCommerce Storefront](https://medium.com/selleo/how-to-build-a-shopify-headless-ecommerce-storefront-99b9dfd5204b)
+  - What is headless eCommerce?
+  - Benefits of headless eCommerce
+  - What should you consider before going headless?
+  - How to build a Shopify headless store?
+  - Summary
