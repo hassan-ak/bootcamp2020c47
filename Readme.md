@@ -41,6 +41,7 @@
   - Summary
 
 - [Headless Shopify - 25 Amazing Examples](https://selleo.com/blog/headless-shopify-25-amazing-examples)
+
   - Introduction
   - What is headless Shopify?
   - How does headless work?
@@ -52,3 +53,9 @@
     - Seamless integration
   - Examples
   - Summary
+
+- [Building an E-commerce site with Shopify](https://www.gatsbyjs.com/docs/building-an-ecommerce-site-with-shopify/)
+  - Setting up your Shopify account
+  - Set up the Gatsby Shopify plugin
+  - Querying Shopify data and listing products
+  - Generating a page for each product
