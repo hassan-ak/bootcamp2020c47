@@ -62,7 +62,4 @@
   - Generating a page for each product
 
 - [Headless Shopify: Lessons Learned Building with Gatsby, Part 1](https://www.getelevar.com/optimization/headless-shopify/)
-  - Why did Elevar Build a Headless Shopify Site?
-  - What Are the Benefits of Headless
-  - Is Headless the Same as Progressive Web App
-  - The Discovery & Design Process
+- [Headless Shopify: Lessons Learned Building with Gatsby, Part 2](https://www.getelevar.com/shopify/headless-shopify-learning-lessons/)
